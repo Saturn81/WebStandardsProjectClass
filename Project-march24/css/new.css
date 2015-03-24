@@ -1,0 +1,54 @@
+body{
+	background: brown;
+}
+
+
+.inlineDisplay{
+    display: inline;
+}
+
+.blockDisplay{
+    display:block;
+}
+
+.indexPageLinks > p{
+    margin:20px;
+    padding:20px;
+    display:block
+}
+
+
+.mainPage{
+	background-color: black;
+}
+
+
+.hiddenObject{
+	 visibility: hidden;
+}
+
+
+.titleMain{
+	font-family:"Moon Flower Bold",Marion,Helvetica,sans-serif;
+	color: white;
+}
+
+.imgFav{
+	width: 100%;
+}
+
+
+.imgLogo{
+	width: 90%;
+}
+
+.floatRight{
+	margin-left:200px;
+}
+
+
+#favoritesTopLink{   /*Used for linking on page */
+	
+}
+
+#favoritesMemoLink{	/*Used for linking on page */
