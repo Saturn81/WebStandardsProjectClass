@@ -1,0 +1,387 @@
+body{
+	background: brown;
+}
+
+
+.funFont{
+	font-family:"Moon Flower Bold",fantasy,
+	arial,sans-serif;
+	color: rgba(255, 255, 255, 0.85);
+}
+
+
+
+
+.inlineDisplay{
+    display: inline;
+}
+
+.blockDisplay{
+    display:block;
+}
+
+.indexPageLinks > p{
+    margin:.84%;
+    padding:24%;
+    display:block
+}
+
+
+.mainPage{
+	background-color: #000;
+	
+}
+
+
+.hiddenObject{
+	 visibility: hidden;
+}
+
+
+.titleMain{
+	font-family:"Moon Flower Bold",Marion,Helvetica,sans-serif;
+	color: white;
+	font-size:2em;
+}
+
+.imgFav{
+	width: 100%;
+}
+
+
+.imgLogo{
+	width: 40%;
+}
+
+.floatRight{
+	
+}
+
+
+#favoritesTopLink{   /*Used for linking on page */
+	
+}
+
+#favoritesMemoLink{	/*Used for linking on page */
+
+}
+
+
+.borderBlue{
+	border: .35em solid #0071bc;
+	width: 40%;
+	float: left;
+	margin-bottom: 30px;
+	position:relative;
+}
+
+.borderBlue2{
+	border: .35em solid #0071bc;
+	width: 30%;
+	float: left;
+	margin: 0px .90em .40em .00em;
+	position:relative;
+}
+
+
+
+
+.position1{
+	z-index: 1;
+}
+
+.position2{
+	z-index: 2;
+}
+
+.position3{
+	z-index: 3;
+}
+
+
+.mainBody{
+	margin-top: 60px;
+	height: .75%;
+	
+}
+
+
+.signIn{
+	position: relative;
+	background-color:#0071bc;
+	
+}
+
+
+
+
+.sectionRight{							/*Login   */
+	width: 45%;
+	float: right;
+	clear: right;
+	border: .30em solid white;
+	padding: .43em;
+	padding-bottom: 2.94em;
+}
+
+
+.relative{
+	position: relative;
+}
+
+.absolute{
+	position: absolute;
+	
+}
+
+.blueBorder{
+	border: .34em solid #0071bc;
+}
+
+
+.firstLostItem{
+	top:5%;
+	left: 25%;
+	font-size:6em;
+}
+
+
+.secondLostItem{
+	top: 175px;
+	left: 25%;
+}
+
+
+.thirdLostItem{
+	top: 550px;
+	left: 26%;
+}
+
+.fourthLostItem{
+	top: 650px;
+	left: 50%;
+	margin-bottom: 20px;
+}
+
+.maxWidth{
+	width: 100%;
+	background-color:hsla(250, 95%, 52%, 1);
+	border-top: .5em solid #0071bc;
+}
+
+
+#headingOne, #headingTwo, #headingThree{
+	background-color: #0071bc;
+	font: "Moon Flower Bold", Marion,Helvetica,sans-serif;	
+	color: white;
+	width: 50%;
+
+}
+
+
+.bodyModifyAccord{
+	width: 33%;
+}
+
+.secondPanelAcord {
+	margin: 30px 25px 25px 30px;
+}
+
+
+
+
+
+.floatLeft{
+	float: left;
+	
+}
+
+
+.floatRight{
+	float: right;
+}
+
+
+footer{
+	width: 120%;
+	background-color: silver;
+	padding: 5px;
+	margin: 150px 30px 0px 0px;
+	clear: left;
+}
+
+
+
+footer h1{
+	
+	color: #0071bc;
+	font: bold 5em/.5em "Moon Flower Bold" "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	
+	}
+	
+
+.smallFont{
+	font: bold .31em/.7em Marion,"Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: white;
+}
+
+
+footer p{
+	color: brown;
+	margin-left:.40em
+}
+
+
+
+
+.changeFontDescription{
+	font: bold 2.5em/1.5em "Moon Flower Bold", Arial, Helvetica, Geneva, sans-serif;
+}
+
+
+
+
+.signUp{
+	background-color: #0071bc;
+	border: 1px solid #fff;
+	float:left;
+	padding-left:20px;
+}
+
+
+.signUp h1{
+	padding: 0px 50px 0 20px;
+	font-family:"Moon Flower Bold",arial,sans-serif;
+	color: white;
+	font-size:3.2em;
+	
+}
+
+.signUpCustom{
+	margin: .20em 0px .20em .40em;
+}
+
+
+.signInIntro{
+	font-family:"Moon Flower",arial,sans-serif;
+	color: #0071bc;
+	font-size:3.2em;
+}
+
+.signInIntro h3{
+font-size:.9em;
+
+}
+
+.signInIntro h1{
+	font-size:3.2em;
+	color: #fff;
+	font-style:bold;
+}
+
+
+/*Search Pages */
+
+.zipper{
+	background-color:rgba(39, 154, 4, 1);
+}
+
+
+.searchButton1 button:hover {
+    background-color: #0071bc;
+}
+
+
+
+.imgSuperIcons{
+	width:14%;
+}
+
+
+.iconMargin{
+	margin-right: .50em;
+}
+
+.iconMargin2{
+	margin-left: .20em;
+}
+
+
+
+.fontBold{
+	font-weight: bold;
+	font-size: 1.2em;
+	color: #0071bc;
+}
+
+
+.detailDescription h3 {
+	font: bold 3.5em/1.5em "Moon Flower Bold", Arial, Helvetica, Geneva, sans-serif;
+}
+
+
+@media (min-width: 200px) and (max-width: 600px) {
+        
+       
+        
+    	.secondPanelAcord {
+           margin: .85em .75em .75em .85em;
+                }
+                
+         
+         .borderBlue, .borderBlue2, #errorPic{			/*elimintes all unnessery images for mobile  */
+         	display: none;
+         	
+         }
+         
+         #UserLogin{
+         	float: left;
+         }
+         
+                
+                
+          .signInIntro{
+          	font-family:arial,sans-serif;
+          	font-size: 1.2em;
+          	
+          	}
+          	
+                
+           .signInIntro h1{
+            	margin-bottom:.85em;
+            	
+                }      
+                
+                
+                
+          }
+                
+        
+        
+        
+        
+        
+        @media (min-width: 601px) and (max-width: 2000px) {
+                
+             
+                        
+                 
+                 .goodbyeLinks{			/*elimintes all unnessery displays */
+                 	display: none;
+                 	
+                 }
+               
+                 
+                 
+                 
+                  
+                        
+                        
+                  }
+        
+        
+        
+        
+        
+   
+
